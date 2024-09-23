@@ -4001,6 +4001,7 @@ body{
 
 .whatsapp-float i {
     margin-top: 16px;
+	color: #FFF; 
 }
 
 .whatsapp-float i:hover {
@@ -4017,7 +4018,7 @@ body{
 }
 
 .whatsapp-float:hover {
-    background-color: #1bc459;
+    background-color: #12ad4b;
 }
 
 
